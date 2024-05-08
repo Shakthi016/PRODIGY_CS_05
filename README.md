@@ -15,27 +15,6 @@ This is a simple packet sniffer tool developed in Python using the `scapy` libra
 - Python 3.x
 - `scapy` library (`pip install scapy`)
 
-## Usage
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your_username/network-packet-analyzer.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd network-packet-analyzer
-    ```
-
-3. Run the packet sniffer:
-
-    ```bash
-    python packet_sniffer.py
-    ```
-
-4. Watch the captured packets being printed to the console, including source and destination IP addresses, protocol types, and payload data.
 
 ## Ethical Use
 

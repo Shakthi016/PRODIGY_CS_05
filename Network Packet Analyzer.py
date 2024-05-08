@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 from scapy.all import *
 
 
@@ -32,16 +26,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[1]:
-
-
-get_ipython().system('pip install scapy')
-
-
-# In[ ]:
-
-
-
-
